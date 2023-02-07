@@ -1,12 +1,12 @@
 ## 我是WinsLi 🐟
 
 - 🐧 普通高等学校本科生，Java后端笨鸟，立志为老板工作30年的合格打工人
-- 👨‍💻 经历：<a href="https://www.bilibili.com/read/cv11481506" target="_blank">关于我，19 线小程序员</a>
-- 🏡 作品：<a href="https://github.com/liyupi/code-nav" target="_blank">编程导航</a> | <a href="https://github.com/liyupi/mianshiya" target="_blank">面试鸭</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">免费编程资源大全</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">求星星 ✨</a>
-- 🌱 干货：<a href="https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png" target="_blank">公众号『 WinsLi 』</a>
-- 😺 视频：<a href="https://space.bilibili.com/12890453" target="_blank">B站 WinsLi</a>
-- 🤔 问题：<a href="https://www.zhihu.com/people/yupi-31-97" target="_blank">知乎 @WinsLi</a>
-- 👭 我的编程知识星球：<a target="_blank" href="https://yupi.icu">帮你学编程、做项目的圈子，可向我提问</a>
+- 👨‍💻 经历：<a href="https://winstonli.netlify.app/" target="_blank">关于我，19 线小程序员</a>
+- 🏡 作品：<a href="https://github.com/lzw-github/lzw-github.github.io" target="_blank">个人博客</a> | <a href="https://github.com/lzw-github/live2d_api" target="_blank">求星星 ✨</a>
+- 🌱 干货：<a href="https://blog.csdn.net/lzw_Z1902" target="_blank">CSDN『 WinsLi 』</a>
+- 😺 视频：<a href="https://b23.tv/NHKmZEI" target="_blank">B站 WinsLi</a>
+- 🤔 问题：<a href="https://www.zhihu.com/" target="_blank">知乎 @WinsLi</a>
+- 👭 优质编程知识星球：<a target="_blank" href="https://yupi.icu">帮你学编程、做项目的圈子</a>
 
 ## 今年汇总 ✨
 
